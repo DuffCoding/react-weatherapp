@@ -7,7 +7,7 @@ const CurrentWeather = () => {
                 <p className="city">Belgrade</p>
                 <p className="weather-description">Sunny</p>
             </div>
-            <img />
+            <img alt="weather" className="weather-icon" src=""/>
         </div>
     );
 }
